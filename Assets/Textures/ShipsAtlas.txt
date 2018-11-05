@@ -1,0 +1,63 @@
+<atlas>
+  <image>
+    <name>player</name>
+    <x>86</x>
+    <y>86</y>
+	<w>75</w>
+	<h>70</h>
+  </image>
+  <image>
+    <name>motherShip</name>
+    <x>175</x>
+    <y>175</y>
+	<w>150</w>
+	<h>150</h>
+  </image>
+  <image>
+    <name>scout</name>
+    <x>170</x>
+    <y>86</y>
+	<w>75</w>
+	<h>75</h>
+  </image>
+  
+  <image>
+    <name>scout1</name>
+    <x>340</x>
+    <y>250</y>
+	<w>75</w>
+	<h>75</h>
+  </image>
+  
+  <image>
+    <name>scout2</name>
+    <x>345</x>
+    <y>170</y>
+	<w>75</w>
+	<h>75</h>
+  </image>
+
+  <image>
+    <name>scout3</name>
+    <x>175</x>
+    <y>340</y>
+	<w>75</w>
+	<h>75</h>
+  </image>
+
+  <image>
+    <name>scout4</name>
+    <x>45</x>
+    <y>85</y>
+	<w>36</w>
+	<h>36</h>
+  </image>
+
+  <image>
+    <name>stephen</name>
+    <x>420</x>
+    <y>45</y>
+	<w>38</w>
+	<h>38</h>
+  </image>
+</atlas>
